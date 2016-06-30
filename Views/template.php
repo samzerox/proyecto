@@ -63,20 +63,10 @@
 		public function __destruct()
 		{
 ?>
-	<section class="info">
-
-	<h2>Bienvenido</h2>
-		<div class="infoContent">
-		
-		<article class="block">
-		<i class="icon-social fa fa-facebook-official"></i>
-		<h3>Facebook</h3>
-		<p>Siguenos en Facebook</p>
-		<a href="#" class="btn">ver</a>
-	</article>
-	</div>
-	</section>
-
+<footer class="navbar-fixed-bottom">
+		Todos los derechos reservados &copy 2016 <br>
+		Sam_zerox@Hotmail.codigofacilito.com
+	</footer>
 		<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="<?php echo URL; ?>Views/template/js/bootstrap.js"></script>
 	</body>
@@ -87,3 +77,5 @@
 	}
 
  ?>
+
+ 
