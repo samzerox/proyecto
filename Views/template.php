@@ -65,7 +65,7 @@
 ?>
 <footer class="navbar-fixed-bottom">
 		Todos los derechos reservados &copy 2016 <br>
-		Sam_zerox@Hotmail.codigofacilito.com
+		Sam_zerox@hotmail.com
 	</footer>
 		<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="<?php echo URL; ?>Views/template/js/bootstrap.js"></script>
