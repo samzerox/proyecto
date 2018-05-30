@@ -12,7 +12,7 @@
 	<html lang="es">
 	<head>
 		<meta charset="UTF-8">
-		<title>Administracion de estudiantes | Codigo Facilito</title>
+		<title>Administracion de estudiantes</title>
 		<link rel="stylesheet" href="<?php echo URL; ?>Views/template/css/bootstrap.css">
 		<link rel="stylesheet" href="<?php echo URL; ?>Views/template/css/general.css">
 
@@ -48,10 +48,6 @@
 						</ul>
 					</li>
 				</ul>
-
-				<ul class="nav navbar-nav navbar-right">
-					<li><a href="http://codigofacilito.com">Codigo Facilito</a></li>
-				</ul>
 			</div>
 		</div>
 		</nav>
@@ -64,8 +60,7 @@
 		{
 ?>
 <footer class="navbar-fixed-bottom">
-		Todos los derechos reservados &copy 2016 <br>
-		Sam_zerox@hotmail.com
+		Todos los derechos reservados &copy 2018
 	</footer>
 		<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
 		<script src="<?php echo URL; ?>Views/template/js/bootstrap.js"></script>

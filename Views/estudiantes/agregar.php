@@ -1,10 +1,10 @@
 <div class="box-principal">
 <h3 class="titulo">Agregar Estudiantes <br></h3>
-	<div class="panel panel-active">
+	<div class="panel panel-active mb-5">
 		<div class="panel-heading">
-			<h3 class="panel-title">Agregar un NUevo Estudiante</h3>
+			<h4 class="panel-title">Agregar un Nuevo Estudiante</h4>
 		</div>
-		<div class="panel-body">
+		<div class="panel-body mb-1">
 			<div class="row">
 				<div class="col-md-1"></div>
 				<div class="col-md-10">
